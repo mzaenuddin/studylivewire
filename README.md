@@ -1,6 +1,6 @@
 
 # studylivewire
-Simplify Conceptual of Livewire framework Full Stack in IDStack Channel Youtube..
+Simplify Conceptual of Livewire framework Full Stack..  
 
 
 1. Create Insert/Update/Delete with real-time load
